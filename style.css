@@ -1,0 +1,28 @@
+.header1 {
+	background-color: #AFEEEE;
+	color: 	#A9A9A9;
+	margin: auto;
+	width: 80%;
+	text-align: center
+}
+.header2 {
+	background-color: #AFEEEE;
+	color: 	#A9A9A9;
+	margin: auto;
+	/* width: 80%; */
+	padding: 0% 35% ;
+}
+.background {
+	background-color: #673bb76e;
+}
+.form {
+	text-align: centr;
+	margin: auto;
+	width: 50%;
+	height: 50%; 	
+	background-image: url(../images/logoform.png);
+	background-repeat: no-repeat;
+	background-position: cover;
+	background-size: 90% 100%;
+	
+}
